@@ -1,0 +1,14 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "Un autre Projet test ave Heroku",
+  "main": "app.js",
+  "author": "The sniper",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "nodemon": "^2.0.4"
+  }
+}
