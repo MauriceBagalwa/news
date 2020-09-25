@@ -1,5 +1,5 @@
 /*
- Importatins des packages importants
+ Importatoins des packages importants
 */
 const express = require("express");
 require("dotenv").config();
