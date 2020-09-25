@@ -12,7 +12,7 @@ const PORT = process.env.PORT;
  Home page
 */
 app.get("/", (req, res) => {
-  res.send("welcome in BBC news...");
+  res.send("welcome in BBC news... yes");
 });
 /*
  Server
